@@ -5,5 +5,5 @@ run:
 	./program
 
 clean:
+	rm program
 	rm *.o
-	rm programxw
